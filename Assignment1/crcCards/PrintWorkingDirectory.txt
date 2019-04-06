@@ -1,0 +1,5 @@
+Class name: PrintWorkingDirectory
+Parent class: Print
+
+Responsibilities:
+* prints the path of the current directory

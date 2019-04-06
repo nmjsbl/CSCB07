@@ -1,0 +1,10 @@
+Class name: GetURL
+
+Responsibilities:
+* retrieves file from URL given by user
+* add this file to the current directory
+	
+Collaborators:
+* FileSytem
+* File
+* Directory

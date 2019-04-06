@@ -1,0 +1,5 @@
+Class name: EchoAppend
+Parent class: Echo
+
+Responsibilities:
+* append the given string in the specific file given by the user

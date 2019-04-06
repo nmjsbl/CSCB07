@@ -1,0 +1,8 @@
+Class name: CdDir
+
+Responsibilities:
+* changes current directory to parent directory
+* changes current directory to directory named by user
+
+Collaborators:
+* FileSystem

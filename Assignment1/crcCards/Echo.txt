@@ -1,0 +1,12 @@
+Class name: Echo
+Subclasses: EchoAppend, EchoOverwrite
+
+Responsibilities:
+* creates a new file with the filename given by the user
+* put the user-given string in a file
+* saves the file containing the string in the current directory
+
+Collaborators:
+* Directory
+* File
+* FileSystem

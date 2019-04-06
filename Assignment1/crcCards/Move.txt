@@ -1,0 +1,5 @@
+Class name: Move
+Parent class: Copy
+
+Responsibilities:
+* deletes the file from its original directory

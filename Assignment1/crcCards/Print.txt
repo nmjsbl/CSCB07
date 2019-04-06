@@ -1,0 +1,11 @@
+Class name: Print
+Subclasses: List, PrintWorkingDirectory, Concatenate
+
+Responsibilities:
+* prints the details of the given file or directory
+
+Collaborators:
+* Directory
+* File
+* FileSystem
+* Shell

@@ -1,0 +1,5 @@
+Class name: EchoOverwrite
+Parent class: Echo
+
+Responsibilities:
+* deletes the file with the same filename given by the user

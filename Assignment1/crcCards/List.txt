@@ -1,0 +1,5 @@
+Class name: List
+Parent class: Print
+
+Responsibilities:
+* prints a list of names of the files and directories in the current directory

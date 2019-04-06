@@ -1,0 +1,9 @@
+Class name: File
+Subclasses : Directory
+
+Responsibilities:
+* contains strings
+* contains other files
+
+Collaborators:
+* FileSystem

@@ -1,0 +1,6 @@
+Class name: Directory
+Parent Class : File
+
+Responsibilities:
+* contains files
+* contains directories

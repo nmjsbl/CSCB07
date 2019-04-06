@@ -1,0 +1,8 @@
+Class name: MkDir
+
+Responsibilities:
+* creates a directory with the name given by user in the current directory
+
+Collaborators:
+* FileSystem
+* Directory

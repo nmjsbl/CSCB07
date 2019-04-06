@@ -1,0 +1,5 @@
+Class name: Concatenate
+Parent class: Print
+
+Responsibilities:
+* prints the content of the file given by the user

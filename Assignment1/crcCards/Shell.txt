@@ -1,0 +1,18 @@
+Class name: Shell
+
+Responsibilities:
+* keeps track of file path visiting
+* keeps track and updates current file visiting
+* takes user input
+	
+Collaborators:
+* FileSystem
+* File
+* Directory
+* Print
+* Copy
+* Echo
+* GetURL
+* Exit
+* Mkdir
+* CdDir

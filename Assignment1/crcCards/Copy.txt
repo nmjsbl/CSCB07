@@ -1,0 +1,10 @@
+Class name: Copy
+Subclasses: Move
+
+Responsibilities:
+* creates a copy of the file or the directory given by the user to the directory where the user wants it to be in
+
+Collaborators:
+* Directory
+* File
+* FileSystem

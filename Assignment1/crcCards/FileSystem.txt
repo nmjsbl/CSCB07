@@ -1,0 +1,9 @@
+Class name: FileSytem
+
+Responsibilities:
+* contains the File structure of the computer
+* given a file, can retrieve file path
+	
+Collaborators:
+* File
+* Directory

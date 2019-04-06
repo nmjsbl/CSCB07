@@ -1,0 +1,7 @@
+Class name: Exit
+
+Responsibilities:
+* close the shell
+
+Collaborators:
+* Shell
